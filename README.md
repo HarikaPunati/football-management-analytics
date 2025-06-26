@@ -1,9 +1,7 @@
-# football-management-analytics
+# ⚽ Football Management Analytics
 Data analytics project using SQL &amp; Python to evaluate football team and player performance.
 
-# ⚽ Football Management Analytics
-
-An academic project using **SQL** and **Python** to analyze football team and player performance. The goal is to provide actionable insights to improve team strategies, player evaluation, and budget optimization.
+The goal is to provide actionable insights to improve team strategies, player evaluation, and budget optimization.
 
 ## 📌 Objective
 To help football coaches and analysts:
